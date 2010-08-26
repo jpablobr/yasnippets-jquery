@@ -1,4 +1,6 @@
-# This was cloned from a TextMate bundle for yasnippet.
+# name : jqajax
+# key : jqajax
+# group : jQuery
 # --
 \$.ajax({
   url: '${1:/path/to/file}',
